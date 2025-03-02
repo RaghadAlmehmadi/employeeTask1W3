@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/ProjectW3.props" />
+</Project>
